@@ -1,0 +1,1 @@
+This program counts days in every months you in put
